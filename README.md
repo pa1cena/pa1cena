@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pavan Kumar Mirupuri 
 - 👀 I’m interested in Web Development,coding.
-- 🌱 I’m currently learning Web Developmenmt
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me..pavankumarmirupuri006@gmail.com
 
